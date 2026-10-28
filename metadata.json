@@ -1,0 +1,6 @@
+{
+  "name": "InternTrack - Internship Application & Interview Tracker",
+  "description": "The all-in-one mobile tracker for college students to manage internship applications, upcoming deadlines, interview rounds, and offer decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
